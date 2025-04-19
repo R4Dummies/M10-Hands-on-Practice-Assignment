@@ -2,7 +2,7 @@
 title: "Ricky Woznichak"
 subtitle: "Master's of Science Digital Marketing"
 image: profile.jpg
-about: # https://quarto.org/docs/websites/website-about.html 
+about: 
   template: trestles
   links:
     - icon: github
@@ -12,6 +12,18 @@ about: # https://quarto.org/docs/websites/website-about.html
       text: LinkedIn
       href: https://www.linkedin.com/in/rickywoznichak/
 ---
+
+## 🎧 Press Play For Enhanced Experience
+
+<iframe 
+  width="100%" 
+  height="166" 
+  scrolling="no" 
+  frameborder="no" 
+  allow="autoplay" 
+  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/steveangello/paradiso%3Fin%3Djoannasanford%2Fsets%2Ftron&color=%23ff5500&inverse=false&auto_play=false&show_user=true">
+</iframe>
+
 
 I’m Ricky Woznichak, a passionate digital marketing professional and current M.S. candidate in Digital Marketing at Cal Poly Pomona. Prior to my stint as an actor, I cut my teeth as an Assistant Digital Media Planner at UM, crafting campaigns for clients like Sony Home Entertainment and IHOP. Along the way I also honed my storytelling and people skills as a substitute teacher and—true story—an awesome waiter. I’ve led SEO initiatives, mastered tools like Google Analytics and SEMrush, and built interactive R and Quarto dashboards that turn complex insights into clear action. When I’m not geeking out over forecasting models for my Productfolio.com thesis, you’ll find me strolling with my dog Jimmy — because great ideas often strike when you’re off screen.
 
@@ -23,11 +35,11 @@ You can find my entire journey on Linkedin - Let's Connect!
 
 -   California State Polytechnic University, Pomona \| California \| June 2010
 
-## Master's of Science in Digital Marketing
+### Master's of Science in Digital Marketing
 
 -   California State Polytechnic University, Pomona \| California \| August 2025
 
-## Experience
+## Work Experience
 
 John Franklin Insurance \| Marketing Manager \| 2024-2025
 
